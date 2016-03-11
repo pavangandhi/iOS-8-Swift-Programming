@@ -14,7 +14,7 @@ the following URL:
 http://shop.oreilly.com/product/0636920034254.do
 
 If you have any questions, you can contact me directly
-at vandad.np@gmail.com
+at pavangandhi10@gmail.com
 Similarly, if you find an error in these sample codes, simply
 report them to O'Reilly at the following URL:
 http://www.oreilly.com/catalog/errata.csp?isbn=0636920034254
