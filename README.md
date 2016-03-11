@@ -1,4 +1,4 @@
-iOS 8 Swift Programming Cookbook (by: Vandad Nahavandipoor)
+iOS 8 Swift Programming Cookbook
 ===============================
 
 __Updated for__: Swift 2.0 (Xcode 7)
